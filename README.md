@@ -1,4 +1,4 @@
-# Leetcode-number-of-1-bits-100-faster-solution
+#  Leetcode-number-of-1-bits-100-faster-solution-c++
 
 
 class Solution {
